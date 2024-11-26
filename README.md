@@ -98,7 +98,7 @@ Aşağıda, her modülün işlevleri ve uygulamanın görsel arayüzüne dair de
 ---
 
 ## Kurulum ve Çalıştırma
-1. Projeyi [GitHub](https://github.com/vahap-18/ProductManager) üzerinden klonlayın.
+1. Projeyi [GitHub](https://github.com/vahap-18/Product-Manager) üzerinden klonlayın.
 2. **SQL Server** üzerinde gerekli veritabanını oluşturun ve bağlantı ayarlarını `App.config` dosyasında düzenleyin.
 3. Projeyi Visual Studio ile açın ve derleyin.
 4. Uygulamayı başlatmak için `AnaForm` formunu çalıştırın.
